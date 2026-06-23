@@ -1,6 +1,6 @@
 # QuizMaster - Comprehensive Quiz Application
 
-A full-featured quiz application built for Final Year Project (FYP) with modern web technologies. This application allows users to create, take, and manage quizzes with comprehensive analytics and leaderboards.
+A full-featured quiz application built for Personal Experience with modern web technologies. This application allows users to create, take, and manage quizzes with comprehensive analytics and leaderboards.
 
 ## 🚀 Features
 
